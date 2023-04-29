@@ -1,0 +1,1 @@
+I thought of a fast way to approximate pi. I thought it was clever and wanted to share.
